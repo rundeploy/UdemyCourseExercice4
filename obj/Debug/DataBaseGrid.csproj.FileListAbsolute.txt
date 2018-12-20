@@ -1,0 +1,10 @@
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\bin\Debug\DataBaseGrid.exe.config
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\bin\Debug\DataBaseGrid.exe
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\bin\Debug\DataBaseGrid.pdb
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\obj\Debug\DataBaseGrid.csprojAssemblyReference.cache
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\obj\Debug\DataBaseGrid.frmTester.resources
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\obj\Debug\DataBaseGrid.Properties.Resources.resources
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\obj\Debug\DataBaseGrid.csproj.GenerateResource.cache
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\obj\Debug\DataBaseGrid.csproj.CoreCompileInputs.cache
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\obj\Debug\DataBaseGrid.exe
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 4\DataBaseGrid\obj\Debug\DataBaseGrid.pdb
